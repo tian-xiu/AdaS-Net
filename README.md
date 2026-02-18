@@ -44,6 +44,7 @@ pip install -r requirements.txt
 1. [Datasets](#datasets)
 1. [Training](#training)
 1. [Testing](#testing)
+1. [results](#results)
 
 ---
 
@@ -98,7 +99,7 @@ Download training and testing datasets and put them into the corresponding folde
 - The test results (prediction masks and evaluation metrics) will be saved in `results/` directory.
 
 
-## <a name="Results"></a>🔨 Results
+## <a name="results"></a>🔨 Results
 ### Inference Results
 
 - Download our inference results: [Inference Results](https://pan.baidu.com/s/1_AD2O0q8ZAgbs_N5lXUs7w?pwd=y3v4)
