@@ -1,7 +1,7 @@
 
 # AdaS-Net: Adaptive Structure-aware Network for Camouflaged Object Detection.
 
-Hongchen Wang, [Shuzhen XU](https://dgzsdxzz.github.io/ShuzhenXu/), Cuicui Lv, Qiang Zheng, and Kaile Su, "AdaS-Net: Adaptive Structure-aware Network for Camouflaged Object Detection", Knowledge-Based Systems, 2025
+Hongchen Wang, [Shuzhen XU](https://dgzsdxzz.github.io/ShuzhenXu/), Cuicui Lv, Qiang Zheng, and Kaile Su, "AdaS-Net: Adaptive Structure-aware Network for Camouflaged Object Detection"
 
 
 [[paper]()] [[visual results]( https://pan.baidu.com/s/1_AD2O0q8ZAgbs_N5lXUs7w?pwd=y3v4)]
@@ -44,6 +44,7 @@ pip install -r requirements.txt
 1. [Datasets](#datasets)
 1. [Training](#training)
 1. [Testing](#testing)
+1. [results](#results)
 
 ---
 
@@ -98,7 +99,7 @@ Download training and testing datasets and put them into the corresponding folde
 - The test results (prediction masks and evaluation metrics) will be saved in `results/` directory.
 
 
-## <a name="Results"></a>🔨 Results
+## <a name="results"></a>🔨 Results
 ### Inference Results
 
 - Download our inference results: [Inference Results](https://pan.baidu.com/s/1_AD2O0q8ZAgbs_N5lXUs7w?pwd=y3v4)
