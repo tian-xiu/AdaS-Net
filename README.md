@@ -4,7 +4,7 @@
 Hongchen Wang, [Shuzhen XU](https://dgzsdxzz.github.io/ShuzhenXu/), Cuicui Lv, Qiang Zheng, and Kaile Su, "AdaS-Net: Adaptive Structure-aware Network for Camouflaged Object Detection", Knowledge-Based Systems, 2025
 
 
-[[paper]()] [[visual results]( https)]
+[[paper]()] [[visual results]( https://pan.baidu.com/s/1_AD2O0q8ZAgbs_N5lXUs7w?pwd=y3v4)]
 
 <!-- #### 🔥🔥🔥 News -->
 
@@ -27,6 +27,7 @@ Hongchen Wang, [Shuzhen XU](https://dgzsdxzz.github.io/ShuzhenXu/), Cuicui Lv, Q
 ```bash
 # Clone the github repo and go to the default directory 'AdaS-Net'.
 git clone https://github.com/tian-xiu/AdaS-Net.git
+cd AdaS-Net
 conda create -n AdaS-Net python=3.10
 conda activate AdaS-Net
 pip install -r requirements.txt
@@ -96,3 +97,8 @@ Download training and testing datasets and put them into the corresponding folde
 
 - The test results (prediction masks and evaluation metrics) will be saved in `results/` directory.
 
+
+## <a name="Results"></a>🔨 Results
+### Inference Results
+
+- Download our inference results: [Inference Results](https://pan.baidu.com/s/1_AD2O0q8ZAgbs_N5lXUs7w?pwd=y3v4)
