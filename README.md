@@ -21,7 +21,7 @@ Hongchen Wang, [Shuzhen XU](https://dgzsdxzz.github.io/ShuzhenXu/), Cuicui Lv, Q
 ## ⚙️ Dependencies
 
 - Python 3.10
-- PyTorch 2.4.0
+- PyTorch 2.5.0
 - NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
 
 ```bash
@@ -63,14 +63,14 @@ Used training and testing sets are organized as follows:
 **Testing Set:**
 - CHAMELEON 
 - NC4K 
-- TE-CAMO 
-- TE-COD10K
+- TEST-CAMO 
+- TEST-COD10K
 
 ### Directory Structure
 
-Download and organize the datasets into `data/` folder with the following structure:
+Download and organize the datasets into `data/` folder.
 
-Download training and testing datasets and place them into the corresponding folders of `data/`. The directory structure should be organized as follows:
+Download training and testing datasets and place them into the corresponding folders of `data/`.
 
 
 Download training and testing datasets and put them into the corresponding folders of `data/`. See [data](data/README.md) for the detail of the directory structure.
@@ -93,6 +93,8 @@ Download training and testing datasets and put them into the corresponding folde
 ### Test on Benchmark Datasets
 
 - Place the testing datasets (CHAMELEON, NC4K, TE-CAMO, TE-COD10K) in `data/test/` folder with proper structure as mentioned in [Datasets](#datasets).
+
+- Testing datasets download: [here](https://pan.baidu.com/s/1PSIUh_mrIRu9LEks0Gh8Xg?pwd=t3cf)
 
 - Run `python test.py` to evaluate the model on all testing benchmarks.
 
